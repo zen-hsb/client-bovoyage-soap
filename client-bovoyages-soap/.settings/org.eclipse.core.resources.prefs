@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/fr/gtm/bovoyage/service/DatesVoyage.java=UTF-8
+encoding//src/main/java/fr/gtm/bovoyage/service/DatesVoyageDTO.java=UTF-8
+encoding//src/main/java/fr/gtm/bovoyage/service/Destination.java=UTF-8
+encoding//src/main/java/fr/gtm/bovoyage/service/DestinationDTO.java=UTF-8
+encoding//src/main/java/fr/gtm/bovoyage/service/DestinationServiceSoap.java=UTF-8
+encoding//src/main/java/fr/gtm/bovoyage/service/DestinationServiceSoapService.java=UTF-8
+encoding//src/main/java/fr/gtm/bovoyage/service/DestinationServiceSoapServiceLocator.java=UTF-8
+encoding//src/main/java/fr/gtm/bovoyage/service/DestinationServiceSoapServiceSoapBindingStub.java=UTF-8
